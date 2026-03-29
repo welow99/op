@@ -1,1 +1,8 @@
-theme: minima 
+theme: minima
+title: ""
+show_excerpts: false
+
+minima:
+  skin: classic
+
+header_pages:
