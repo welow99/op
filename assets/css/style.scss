@@ -7,4 +7,5 @@ body { font-family: 'Noto Sans JP', sans-serif; background: #fff; color: #333; }
 h1,h2,h3 { font-weight: 700; line-height: 1.4; }
 p { line-height: 1.9; margin-bottom: 1.6em; font-size: 16px; }
 a { color: #333; }
-.site-header, .site-footer { display: none; }
+.site-header { display: none !important; }
+.site-footer { display: none !important; }
