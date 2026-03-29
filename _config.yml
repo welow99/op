@@ -1,8 +1,13 @@
-theme: minima
 title: ""
+description: ""
 show_excerpts: false
 
-minima:
-  skin: classic
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
-header_pages:
+exclude:
+  - .obsidian
+  - README.md
