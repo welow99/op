@@ -10,14 +10,14 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 17px;
   -webkit-text-size-adjust: 100%;
 }
 
 body {
   font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
   font-weight: 400;
-  color: #222;
+  color: #111;
   background-color: #fff;
   line-height: 1.9;
   letter-spacing: 0.06em;
@@ -27,7 +27,7 @@ body {
 
 /* ── Container ── */
 .container {
-  max-width: 720px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 80px 32px 120px;
 }
